@@ -1,0 +1,29 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Eat the Burger! A MySQL, Node, Express, Handlebars restaurant app that lets users input the names of burgers they'd like to eat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://savannalever.github.io/Burger/"
+  },
+  "author": "savanna lever",
+  "license": "ISC",
+  "homepage": "https://github.com/savannalever/Burger",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.6",
+    "my": "^0.3.3",
+    "mysql": "^2.17.1",
+    "node": "^12.13.0",
+    "sql": "^0.78.0"
+  }
+}
